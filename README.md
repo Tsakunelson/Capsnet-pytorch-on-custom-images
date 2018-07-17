@@ -1,6 +1,6 @@
 # PyTorch CapsNet: Capsule Network for PyTorch
 
-NB: Before following the complete description below, please note that this version is adapted to custom Images/With segmented counter parts taken as input, using DataLoaders.
+NB: Before following the complete description below, please note that this version is adapted to custom Images/With segmented counter parts taken as input, using DataLoaders. Contact me assap, for access to the train/validation dataset.
 
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/cedrickchee/capsule-net-pytorch/blob/master/LICENSE)
